@@ -1,0 +1,3 @@
+Lime Green,15
+Matte Black,30
+Silver,20
